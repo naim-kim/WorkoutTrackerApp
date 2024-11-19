@@ -1,0 +1,213 @@
+{
+    "routines": [
+      {
+        "date": "2024-11-14",
+        "categories": [
+          {
+            "title": "Legs (Glute Focus)",
+            "exercises": [
+              {
+                "name": "Hip Thrusts",
+                "sets": [
+                  { "weight": "60 kg", "reps": "10 reps" },
+                  { "weight": "70 kg", "reps": "10 reps" },
+                  { "weight": "80 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Bulgarian Split Squats",
+                "sets": [
+                  { "weight": "10 kg", "reps": "10 reps" },
+                  { "weight": "12 kg", "reps": "10 reps" },
+                  { "weight": "15 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Sumo Deadlifts",
+                "sets": [
+                  { "weight": "50 kg", "reps": "10 reps" },
+                  { "weight": "60 kg", "reps": "10 reps" },
+                  { "weight": "70 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Cable Kickbacks",
+                "sets": [
+                  { "weight": "15 kg", "reps": "15 reps" },
+                  { "weight": "17 kg", "reps": "15 reps" },
+                  { "weight": "20 kg", "reps": "15 reps" }
+                ]
+              },
+              {
+                "name": "Banded Frog Pumps",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "30 reps" },
+                  { "weight": "Bodyweight", "reps": "30 reps" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2024-11-15",
+        "categories": [
+          {
+            "title": "Upper (Push)",
+            "exercises": [
+              {
+                "name": "Push-Ups",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "12 reps" },
+                  { "weight": "Bodyweight", "reps": "10 reps" },
+                  { "weight": "Bodyweight", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Dumbbell Bench Press",
+                "sets": [
+                  { "weight": "15 kg", "reps": "12 reps" },
+                  { "weight": "17.5 kg", "reps": "10 reps" },
+                  { "weight": "20 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Lat Pulldown",
+                "sets": [
+                  { "weight": "40 kg", "reps": "12 reps" },
+                  { "weight": "45 kg", "reps": "10 reps" },
+                  { "weight": "50 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Plank with Hip Dips",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "30 seconds" },
+                  { "weight": "Bodyweight", "reps": "30 seconds" },
+                  { "weight": "Bodyweight", "reps": "30 seconds" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2024-11-16",
+        "categories": [
+          {
+            "title": "Glutes (Fire Workout #2)",
+            "exercises": [
+              {
+                "name": "Barbell Squats",
+                "sets": [
+                  { "weight": "50 kg", "reps": "12 reps" },
+                  { "weight": "60 kg", "reps": "10 reps" },
+                  { "weight": "70 kg", "reps": "8 reps" }
+                ]
+              },
+              {
+                "name": "Bulgarian Split Squats",
+                "sets": [
+                  { "weight": "12 kg", "reps": "10 reps" },
+                  { "weight": "15 kg", "reps": "10 reps" },
+                  { "weight": "20 kg", "reps": "8 reps" }
+                ]
+              },
+              {
+                "name": "Romanian Deadlifts",
+                "sets": [
+                  { "weight": "40 kg", "reps": "12 reps" },
+                  { "weight": "50 kg", "reps": "10 reps" },
+                  { "weight": "60 kg", "reps": "8 reps" }
+                ]
+              },
+              {
+                "name": "Banded Side Steps",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "20 steps" },
+                  { "weight": "Bodyweight", "reps": "20 steps" },
+                  { "weight": "Bodyweight", "reps": "20 steps" }
+                ]
+              },
+              {
+                "name": "Glute Kickbacks",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "20 reps" },
+                  { "weight": "Bodyweight", "reps": "20 reps" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2024-11-17",
+        "categories": [
+          {
+            "title": "Active Rest/Cardio",
+            "exercises": [
+              {
+                "name": "Incline Treadmill Walk",
+                "sets": [
+                  { "weight": "None", "reps": "30 minutes at 5% incline" }
+                ]
+              },
+              {
+                "name": "Yoga Stretch Routine",
+                "sets": [
+                  { "weight": "None", "reps": "15 minutes of stretching" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2024-11-18",
+        "categories": [
+          {
+            "title": "Full-Body Strength & Conditioning",
+            "exercises": [
+              {
+                "name": "Deadlifts",
+                "sets": [
+                  { "weight": "50 kg", "reps": "12 reps" },
+                  { "weight": "60 kg", "reps": "10 reps" },
+                  { "weight": "70 kg", "reps": "8 reps" }
+                ]
+              },
+              {
+                "name": "Dumbbell Thrusters (Squat to Press)",
+                "sets": [
+                  { "weight": "10 kg", "reps": "12 reps" },
+                  { "weight": "12.5 kg", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Kettlebell Swings",
+                "sets": [
+                  { "weight": "12 kg", "reps": "15 reps" },
+                  { "weight": "16 kg", "reps": "15 reps" }
+                ]
+              },
+              {
+                "name": "Burpees",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "10 reps" },
+                  { "weight": "Bodyweight", "reps": "10 reps" }
+                ]
+              },
+              {
+                "name": "Russian Twists",
+                "sets": [
+                  { "weight": "5 kg plate", "reps": "30 seconds" },
+                  { "weight": "5 kg plate", "reps": "30 seconds" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

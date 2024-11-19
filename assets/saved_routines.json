@@ -1,0 +1,145 @@
+{
+    "saved_routines": {
+      "2024-11-19": {
+        "categories": [
+          {
+            "title": "Legs (Glute Focus)",
+            "exercises": [
+              {
+                "name": "Hip Thrusts",
+                "sets": [
+                  { "weight": "60 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "70 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "80 kg", "reps": "10 reps", "isCompleted": true }
+                ]
+              },
+              {
+                "name": "Bulgarian Split Squats",
+                "sets": [
+                  { "weight": "10 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "12 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "15 kg", "reps": "10 reps", "isCompleted": true }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Upper (Push)",
+            "exercises": [
+              {
+                "name": "Push-Ups",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "12 reps", "isCompleted": true },
+                  { "weight": "Bodyweight", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "Bodyweight", "reps": "10 reps", "isCompleted": true }
+                ]
+              },
+              {
+                "name": "Dumbbell Bench Press",
+                "sets": [
+                  { "weight": "15 kg", "reps": "12 reps", "isCompleted": false },
+                  { "weight": "17.5 kg", "reps": "10 reps", "isCompleted": false },
+                  { "weight": "20 kg", "reps": "10 reps", "isCompleted": false }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "2024-11-10": {
+        "categories": [
+          {
+            "title": "Cardio Day",
+            "exercises": [
+              {
+                "name": "Running",
+                "sets": [
+                  { "weight": "Treadmill", "reps": "30 minutes", "isCompleted": true }
+                ]
+              },
+              {
+                "name": "Jump Rope",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "100 skips", "isCompleted": true },
+                  { "weight": "Bodyweight", "reps": "100 skips", "isCompleted": true }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "2024-11-15": {
+        "categories": [
+          {
+            "title": "Lower (Legs)",
+            "exercises": [
+              {
+                "name": "Squats",
+                "sets": [
+                  { "weight": "50 kg", "reps": "12 reps", "isCompleted": true },
+                  { "weight": "60 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "70 kg", "reps": "8 reps", "isCompleted": false }
+                ]
+              },
+              {
+                "name": "Lunges",
+                "sets": [
+                  { "weight": "10 kg", "reps": "12 reps per leg", "isCompleted": false },
+                  { "weight": "12 kg", "reps": "10 reps per leg", "isCompleted": false }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "2024-11-16": {
+        "categories": [
+          {
+            "title": "Back & Core",
+            "exercises": [
+              {
+                "name": "Pull-Ups",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "5 reps", "isCompleted": false },
+                  { "weight": "Bodyweight", "reps": "5 reps", "isCompleted": false },
+                  { "weight": "Bodyweight", "reps": "5 reps", "isCompleted": false }
+                ]
+              },
+              {
+                "name": "Plank",
+                "sets": [
+                  { "weight": "Bodyweight", "reps": "1 minute", "isCompleted": true },
+                  { "weight": "Bodyweight", "reps": "1 minute", "isCompleted": true }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "2024-11-18": {
+        "categories": [
+          {
+            "title": "Chest & Shoulders",
+            "exercises": [
+              {
+                "name": "Incline Dumbbell Press",
+                "sets": [
+                  { "weight": "15 kg", "reps": "12 reps", "isCompleted": true },
+                  { "weight": "17.5 kg", "reps": "10 reps", "isCompleted": true },
+                  { "weight": "20 kg", "reps": "8 reps", "isCompleted": false }
+                ]
+              },
+              {
+                "name": "Shoulder Press",
+                "sets": [
+                  { "weight": "10 kg", "reps": "12 reps", "isCompleted": false },
+                  { "weight": "12.5 kg", "reps": "10 reps", "isCompleted": false }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
