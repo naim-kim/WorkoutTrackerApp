@@ -7,7 +7,7 @@ class ProfilePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           'Profile',
-          style: TextStyle(color: Colors.black),
+          style: TextStyle(fontFamily: 'Pretendard', color: Colors.black),
         ),
         backgroundColor: Colors.white,
         elevation: 0,
@@ -25,19 +25,19 @@ class ProfilePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             const SizedBox(height: 20),
-            CircleAvatar(
-              radius: 50,
-              backgroundColor: Colors.deepPurple.shade100,
-              child: Icon(
-                Icons.person,
-                size: 50,
-                color: Colors.deepPurple,
+            ClipOval(
+              child: Image.asset(
+                'assets/profile.jpg',
+                fit: BoxFit.cover,
+                width: 150,
+                height: 150,
               ),
             ),
             const SizedBox(height: 20),
-            Text(
-              'User Name',
+            const Text(
+              'Naim Kim',
               style: TextStyle(
+                fontFamily: 'Pretendard',
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
                 color: Colors.deepPurple,
@@ -45,8 +45,9 @@ class ProfilePage extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             Text(
-              'user@example.com',
+              'test@example.com',
               style: TextStyle(
+                fontFamily: 'Pretendard',
                 fontSize: 16,
                 color: Colors.grey.shade600,
               ),
@@ -57,15 +58,7 @@ class ProfilePage extends StatelessWidget {
               title: const Text('Settings'),
               trailing: const Icon(Icons.arrow_forward_ios),
               onTap: () {
-                // Navigate to settings page or add functionality
-              },
-            ),
-            ListTile(
-              leading: Icon(Icons.help, color: Colors.deepPurple),
-              title: const Text('Help & Support'),
-              trailing: const Icon(Icons.arrow_forward_ios),
-              onTap: () {
-                // Navigate to help page or add functionality
+                // setting page
               },
             ),
             ListTile(
@@ -73,7 +66,7 @@ class ProfilePage extends StatelessWidget {
               title: const Text('Logout'),
               trailing: const Icon(Icons.arrow_forward_ios),
               onTap: () {
-                // Handle logout functionality
+                // logout
               },
             ),
           ],

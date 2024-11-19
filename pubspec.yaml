@@ -57,3 +57,7 @@ flutter:
           weight: 200
         - asset: assets/fonts/Pretendard-Thin.otf
           weight: 100
+    - family: Recipekorea
+      fonts:
+        - asset: assets/fonts/Recipekorea 레코체 FONT.otf
+        - asset: assets/fonts/Recipekorea 레코체 FONT.ttf
