@@ -244,6 +244,7 @@ class _TodayWorkoutPageState extends State<TodayWorkoutPage> {
               title: Text(
                 category.title,
                 style: const TextStyle(
+                  fontFamily: 'Pretendard',
                   fontWeight: FontWeight.w500,
                   color: Colors.black,
                 ),
@@ -256,8 +257,8 @@ class _TodayWorkoutPageState extends State<TodayWorkoutPage> {
                     title: Text(
                       exercise.name,
                       style: const TextStyle(
+                        fontFamily: 'Pretendard',
                         fontSize: 16,
-                        fontWeight: FontWeight.bold,
                         color: Colors.black,
                       ),
                     ),
@@ -275,14 +276,15 @@ class _TodayWorkoutPageState extends State<TodayWorkoutPage> {
                             Text(
                               '${index} set',
                               style: const TextStyle(
+                                fontFamily: 'Pretendard',
                                 fontSize: 14,
                                 color: Colors.black87,
-                                fontWeight: FontWeight.w500,
                               ),
                             ),
                             Text(
                               set.weight,
                               style: const TextStyle(
+                                fontFamily: 'Pretendard',
                                 fontSize: 14,
                                 color: Colors.black87,
                               ),
@@ -290,6 +292,7 @@ class _TodayWorkoutPageState extends State<TodayWorkoutPage> {
                             Text(
                               set.reps,
                               style: const TextStyle(
+                                fontFamily: 'Pretendard',
                                 fontSize: 14,
                                 color: Colors.black87,
                               ),

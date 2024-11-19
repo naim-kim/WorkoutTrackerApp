@@ -100,6 +100,7 @@ class _MonthlyPageState extends State<MonthlyPage> {
             title: Text(
               category.title,
               style: const TextStyle(
+                fontFamily: 'Pretendard',
                 fontWeight: FontWeight.w500,
                 color: Colors.black,
               ),
@@ -112,8 +113,8 @@ class _MonthlyPageState extends State<MonthlyPage> {
                   title: Text(
                     exercise.name,
                     style: const TextStyle(
+                      fontFamily: 'Pretendard',
                       fontSize: 16,
-                      fontWeight: FontWeight.bold,
                       color: Colors.black,
                     ),
                   ),
@@ -131,6 +132,7 @@ class _MonthlyPageState extends State<MonthlyPage> {
                           Text(
                             '${index} set',
                             style: const TextStyle(
+                              fontFamily: 'Pretendard',
                               fontSize: 14,
                               color: Colors.black87,
                               fontWeight: FontWeight.w500,
@@ -139,6 +141,7 @@ class _MonthlyPageState extends State<MonthlyPage> {
                           Text(
                             set.weight,
                             style: const TextStyle(
+                              fontFamily: 'Pretendard',
                               fontSize: 14,
                               color: Colors.black87,
                             ),
@@ -146,6 +149,7 @@ class _MonthlyPageState extends State<MonthlyPage> {
                           Text(
                             set.reps,
                             style: const TextStyle(
+                              fontFamily: 'Pretendard',
                               fontSize: 14,
                               color: Colors.black87,
                             ),

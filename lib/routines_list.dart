@@ -134,9 +134,8 @@ class ExerciseTile extends StatelessWidget {
         title: Text(
           exercise.name,
           style: const TextStyle(
+            fontFamily: 'Pretendard',
             fontSize: 14,
-            color: Colors.black,
-            fontWeight: FontWeight.w600,
           ),
         ),
         children: exercise.sets.asMap().entries.map((entry) {
@@ -154,6 +153,7 @@ class ExerciseTile extends StatelessWidget {
                 Text(
                   '${index} set',
                   style: const TextStyle(
+                    fontFamily: 'Pretendard',
                     fontSize: 14,
                     color: Colors.black87,
                     fontWeight: FontWeight.w500,
@@ -162,6 +162,7 @@ class ExerciseTile extends StatelessWidget {
                 Text(
                   set.weight,
                   style: const TextStyle(
+                    fontFamily: 'Pretendard',
                     fontSize: 14,
                     color: Colors.black87,
                   ),
@@ -169,6 +170,7 @@ class ExerciseTile extends StatelessWidget {
                 Text(
                   set.reps,
                   style: const TextStyle(
+                    fontFamily: 'Pretendard',
                     fontSize: 14,
                     color: Colors.black87,
                   ),
