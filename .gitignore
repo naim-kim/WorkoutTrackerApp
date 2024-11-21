@@ -1,4 +1,4 @@
-# General Exclusions
+# Miscellaneous
 *.class
 *.log
 *.pyc
@@ -10,32 +10,94 @@
 .svn/
 migrate_working_dir/
 
-# IDE-Specific Exclusions
+# VS Code and IntelliJ
+.vscode/
+.idea/
 *.iml
 *.ipr
 *.iws
-.idea/
-.vscode/
 
-# Flutter/Dart/Pub Related
+# macOS-specific (if building for macOS)
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Windows-specific (if building for Windows)
+windows/runner/Debug/
+windows/runner/Release/
+windows/flutter/ephemeral/
+
+# Flutter-specific
 .dart_tool/
+.packages
 .flutter-plugins
 .flutter-plugins-dependencies
-.pub-cache/
-.pub/
-/build/
+.flutter-versions
+android/.gradle
+android/app/build
+build/
+pubspec.lock
+.flutter/
+
+# Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
+.pub-cache/
+.pub/
 
-# Symbolication and Obfuscation
+# Symbolication related
 app.*.symbols
+
+# Obfuscation related
 app.*.map.json
 
-# Android/Local Configuration
+# Android Studio build artifacts
 /android/app/debug
 /android/app/profile
 /android/app/release
-android/local.properties
 
-# iOS Specific
-ios/Pods/
+# Firebase configuration files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Firebase options in Flutter
+lib/firebase_options.dart
+lib/.firebase_options.dart
+
+# Environment files
+.env
+.env.*
+
+# Firebase settings
+.firebase/
+firebase-debug.log
+
+# Keys and Credentials
+*.keystore
+android/key.properties
+android/app/debug.keystore
+
+# Firebase Crashlytics
+**/crashlytics-build.properties
+**/fabric/*.properties
+
+# Firebase Functions (if using Firebase functions locally)
+functions/node_modules/
+functions/.env
+functions/.firebase/
+
+# Logs
+*.log
+*.log.**
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+.*.sw?
+
+# Custom Configurations
+config/
+secret/
+credentials/
+service/
